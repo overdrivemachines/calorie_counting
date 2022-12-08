@@ -31,3 +31,6 @@
 *.out
 *.app
 calorie_counting
+
+# Misc
+.vscode
